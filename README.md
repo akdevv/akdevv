@@ -43,22 +43,15 @@ Full Stack Software Developer | Freelancer
 
 ## 🤝 Let's Connect
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <a href="https://akdevv.com" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/fluent/24/link.png" alt="Website" width="20" height="20" style="filter: invert(37%) sepia(51%) saturate(4653%) hue-rotate(201deg) brightness(96%) contrast(97%);"/>
-    <span>akdevv.com</span>
-  </a>
-  <a href="https://linkedin.com/in/akdevv" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/fluent/24/linkedin.png" alt="LinkedIn" width="20" height="20"/>
-    <span>in/akdevv</span>
-  </a>
-  <a href="https://twitter.com/akdevv" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/fluent/24/twitter.png" alt="Twitter" width="20" height="20"/>
-    <span>@akdevv</span>
-  </a>
-  <a href="mailto:akdevv@protonmail.com" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/fluent/24/email.png" alt="Email" width="20" height="20"/>
-    <span>akdevv@protonmail.com</span>
-  </a>
+<div align="center">
+  <a href="https://akdevv.com">🔗 akdevv.com</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://linkedin.com/in/akdevv">🧳 in/akdevv</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://twitter.com/akdevv">🐦 @akdevv</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="mailto:akdevv@protonmail.com">✉️ akdevv@protonmail.com</a>
 </div>
+
+
 

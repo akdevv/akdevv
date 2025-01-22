@@ -15,6 +15,7 @@ Full Stack Software Developer | Freelancer
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
 
@@ -46,12 +47,9 @@ Full Stack Software Developer | Freelancer
 <div align="center">
   <a href="https://akdevv.com">🔗 akdevv.com</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://linkedin.com/in/akdevv">🧳 in/akdevv</a>
+  <a href="https://linkedin.com/in/akdevv">💼 in/akdevv</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://twitter.com/akdevv">🐦 @akdevv</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="mailto:akdevv@protonmail.com">✉️ akdevv@protonmail.com</a>
 </div>
-
-
-

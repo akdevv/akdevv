@@ -42,6 +42,10 @@ Full Stack Software Developer | Freelancer
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 🛠️ Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdevv&layout=compact&show_icons=true&theme=transparent)
+
 ## 🤝 Let's Connect
 
 <div align="center">

@@ -1,177 +1,45 @@
-<div align="center">
-
-# 👋 Hello, I'm Ashish Kumar
-
-### Full Stack Software Developer | Freelance Solutions Architect
-
-<a href="https://akdevv.com">🔗 Portfolio</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://linkedin.com/in/akdevv">💼 LinkedIn</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://twitter.com/akdevv">🐦 Twitter</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="mailto:akdevv@protonmail.com">✉️ Email</a>
-
-</div>
-
----
-
-## 🚀 About Me
-
-```javascript
-const ashish = {
-    role: "Full Stack Software Developer",
-    experience: "3+ years building scalable web applications",
-    achievements: {
-        clients: "20+ successful freelance projects delivered",
-        specialization: "Modern web technologies & AI/ML integration"
-    },
-    currentlyExploring: ["Python", "Machine Learning", "AI Technologies"],
-    workPhilosophy: "Clean code, scalable architecture, exceptional UX"
-};
+```
+        _       _
+   __ _| | ____| | _____   ____   __
+  / _` | |/ / _` |/ _ \ \ / /\ \ / /
+ | (_| |   < (_| |  __/\ V /  \ V /
+  \__,_|_|\_\__,_|\___| \_/    \_/
 ```
 
-**What Drives Me:**
-- 🎯 Building high-performance, user-centric web applications that solve real problems
-- ⚡ Mastering the modern JavaScript ecosystem and full-stack development patterns
-- 🌟 Delivering production-ready solutions with clean, maintainable code
-- 🔧 Continuously learning and adapting to emerging technologies
+Full-stack developer. Freelance solutions architect. Shipper of things that work.
 
 ---
 
-## 🛠️ Technical Arsenal
+### What I'm cooking
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+**[million-rows](https://github.com/akdevv/million-rows)** — Render millions of rows in React without melting the browser. Virtualized to the bone.
 
-### **Styling & UI Frameworks**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+**[better-chat](https://github.com/akdevv/better-chat)** — Next.js 15 app that lets you chat with OpenAI, Anthropic, and friends in one place. Pick your fighter.
 
-### **Backend & Runtime**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+**[ai-rag-prod](https://github.com/akdevv/ai-rag-prod)** — Fast RAG with LangChain, QdrantDB, and Ollama. Runs local models, no API bill.
 
-### **Databases & ORMs**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**[multi-tenant-blog](https://github.com/akdevv/multi-tenant-blog)** — One platform, a subdomain per org. Multi-tenancy without the migraine.
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+**[simple-reader](https://github.com/akdevv/simple-reader)** — Save articles or paste text, read them clean and distraction-free. Read-it-later, minus the bloat.
 
-### **Tools & Platforms**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+**[xe-cli](https://github.com/akdevv/xe-cli)** — A lightweight, universal package manager. Because every ecosystem invented its own.
+
+**[ugit](https://github.com/akdevv/ugit)** — Git, reimplemented in Python. The best way to understand it is to rebuild it.
+
+**[task-automation-assistant](https://github.com/akdevv/task-automation-assistant)** — An AI assistant that actually uses tools to get work done.
 
 ---
 
-## 📈 GitHub Activity
+### The usual suspects
 
-<div align="center">
-
-```text
-🔥 3+ Years of Professional Development
-⭐ 20+ Successful Client Projects Delivered
-💻 Full Stack Expertise Across Modern Tech Stacks
-🚀 Constantly Learning & Building
-```
-
-</div>
+`TypeScript` `React` `Next.js` `Node.js` `Python` `PostgreSQL` `Prisma` `Docker` `AWS`
 
 ---
 
-## 💼 What I Bring to the Table
+### Find me elsewhere
 
-```typescript
-interface DeveloperSkills {
-    frontend: string[];
-    backend: string[];
-    architecture: string[];
-    softSkills: string[];
-}
-
-const myExpertise: DeveloperSkills = {
-    frontend: [
-        "Responsive & Mobile-First Design",
-        "Performance Optimization",
-        "State Management (Redux, Context)",
-        "Component-Driven Development"
-    ],
-    backend: [
-        "RESTful & GraphQL APIs",
-        "Database Design & Optimization",
-        "Authentication & Authorization",
-        "Microservices Architecture"
-    ],
-    architecture: [
-        "Scalable System Design",
-        "Cloud Infrastructure (AWS)",
-        "CI/CD Pipelines",
-        "Caching Strategies (Redis)"
-    ],
-    softSkills: [
-        "Client Communication",
-        "Project Management",
-        "Problem Solving",
-        "Agile Methodologies"
-    ]
-};
-```
+**[akdevv.com](https://akdevv.com)** — Portfolio | **[in/akdevv](https://linkedin.com/in/akdevv)** on LinkedIn | **[@akdevv](https://twitter.com/akdevv)** on X | **[email](mailto:akdevv@protonmail.com)**
 
 ---
 
-## 🎯 Currently Exploring
-
-- 🤖 **Artificial Intelligence & Machine Learning** - Expanding into AI-powered applications
-- 🐍 **Advanced Python** - Deep diving into Django, FastAPI, and data science libraries
-- ☁️ **Cloud Architecture** - Mastering AWS services and serverless technologies
-- 🔐 **Web Security** - Best practices in authentication, authorization, and data protection
-
----
-
-## 🤝 Let's Build Something Amazing
-
-I'm always interested in collaborating on innovative projects and discussing new opportunities. Whether you need a full-stack developer for your startup, a technical consultant, or a reliable freelancer for your next project, let's connect!
-
-<div align="center">
-
-### 📬 Get In Touch
-
-<a href="https://akdevv.com">🔗 akdevv.com</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://linkedin.com/in/akdevv">💼 in/akdevv</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://twitter.com/akdevv">🐦 @akdevv</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="mailto:akdevv@protonmail.com">✉️ akdevv@protonmail.com</a>
-
----
-
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=akdevv&color=brightgreen&style=flat-square)
-
-</div>
+<sub><i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House</sub>

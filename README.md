@@ -6,39 +6,44 @@
   \__,_|_|\_\__,_|\___| \_/    \_/
 ```
 
-Full-stack developer. Freelance solutions architect. Shipper of things that work.
+full-stack dev, also do some freelance. mostly just build and ship things.
 
 ---
 
-### What I'm cooking
+### stuff i've been building
 
-**[million-rows](https://github.com/akdevv/million-rows)** — Render millions of rows in React without melting the browser. Virtualized to the bone.
+**[pulse-analytics](https://github.com/akdevv/pulse-analytics)** <sub>`in dev`</sub> — self-hosted analytics. you ask in plain english and an AI writes the SQL.
 
-**[better-chat](https://github.com/akdevv/better-chat)** — Next.js 15 app that lets you chat with OpenAI, Anthropic, and friends in one place. Pick your fighter.
+**[million-rows](https://github.com/akdevv/million-rows)** — rendering million rows of data in the browser without it crashing. using virtualization.
 
-**[ai-rag-prod](https://github.com/akdevv/ai-rag-prod)** — Fast RAG with LangChain, QdrantDB, and Ollama. Runs local models, no API bill.
+**[ugit](https://github.com/akdevv/ugit)** — making git from scratch in python.
 
-**[multi-tenant-blog](https://github.com/akdevv/multi-tenant-blog)** — One platform, a subdomain per org. Multi-tenancy without the migraine.
+**[ai-rag-prod](https://github.com/akdevv/ai-rag-prod)** — rag with langchain, qdrant and ollama. runs local models so no api bills.
 
-**[simple-reader](https://github.com/akdevv/simple-reader)** — Save articles or paste text, read them clean and distraction-free. Read-it-later, minus the bloat.
+**[better-chat](https://github.com/akdevv/better-chat)** — chatting with openai, anthropic and others in one place.
 
-**[xe-cli](https://github.com/akdevv/xe-cli)** — A lightweight, universal package manager. Because every ecosystem invented its own.
+**[multi-tenant-blog](https://github.com/akdevv/multi-tenant-blog)** — blog platform where each org gets its own subdomain with separate data.
 
-**[ugit](https://github.com/akdevv/ugit)** — Git, reimplemented in Python. The best way to understand it is to rebuild it.
+**[xe-cli](https://github.com/akdevv/xe-cli)** — a small universal package manager.
 
-**[task-automation-assistant](https://github.com/akdevv/task-automation-assistant)** — An AI assistant that actually uses tools to get work done.
+**[simple-reader](https://github.com/akdevv/simple-reader)** — save articles or paste text and read them clean, no clutter.
+
+**[task-automation-assistant](https://github.com/akdevv/task-automation-assistant)** — an AI assistant that uses tools to get things done.
 
 ---
 
-### The usual suspects
+### stuff i reach for
 
 `TypeScript` `React` `Next.js` `Node.js` `Python` `PostgreSQL` `Prisma` `Docker` `AWS`
 
 ---
 
-### Find me elsewhere
+### find me around
 
-**[akdevv.com](https://akdevv.com)** — Portfolio | **[in/akdevv](https://linkedin.com/in/akdevv)** on LinkedIn | **[@akdevv](https://twitter.com/akdevv)** on X | **[email](mailto:akdevv@protonmail.com)**
+- **Portfolio** — [akdevv.com](https://akdevv.com)
+- **LinkedIn** — [in/akdevv](https://linkedin.com/in/akdevv)
+- **X** — [@akdevv](https://twitter.com/akdevv)
+- **Email** — [akdevv@protonmail.com](mailto:akdevv@protonmail.com)
 
 ---
 

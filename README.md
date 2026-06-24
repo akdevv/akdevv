@@ -16,8 +16,6 @@ full-stack dev, also do some freelance. mostly just build and ship things.
 
 **[million-rows](https://github.com/akdevv/million-rows)** — rendering million rows of data in the browser without it crashing. using virtualization.
 
-**[ugit](https://github.com/akdevv/ugit)** — making git from scratch in python.
-
 **[ai-rag-prod](https://github.com/akdevv/ai-rag-prod)** — rag with langchain, qdrant and ollama. runs local models so no api bills.
 
 **[better-chat](https://github.com/akdevv/better-chat)** — chatting with openai, anthropic and others in one place.

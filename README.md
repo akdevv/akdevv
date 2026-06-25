@@ -13,20 +13,10 @@ full-stack dev, also do some freelance. mostly just build and ship things.
 ### stuff i've been building
 
 **[pulse-analytics](https://github.com/akdevv/pulse-analytics)** <sub>`in dev`</sub> — self-hosted analytics. you ask in plain english and an AI writes the SQL.
-
-**[million-rows](https://github.com/akdevv/million-rows)** — rendering million rows of data in the browser without it crashing. using virtualization.
-
-**[ai-rag-prod](https://github.com/akdevv/ai-rag-prod)** — rag with langchain, qdrant and ollama. runs local models so no api bills.
-
-**[better-chat](https://github.com/akdevv/better-chat)** — chatting with openai, anthropic and others in one place.
-
-**[multi-tenant-blog](https://github.com/akdevv/multi-tenant-blog)** — blog platform where each org gets its own subdomain with separate data.
-
+**[fifa-app](https://github.com/akdevv/fifa-app)** — offline-first mobile app for the 2026 world cup. fixtures, live standings, squads, and a ping before your team plays. expo + react native.
 **[xe-cli](https://github.com/akdevv/xe-cli)** — a small universal package manager.
-
+**[better-chat](https://github.com/akdevv/better-chat)** — chatting with openai, anthropic and others in one place.
 **[simple-reader](https://github.com/akdevv/simple-reader)** — save articles or paste text and read them clean, no clutter.
-
-**[task-automation-assistant](https://github.com/akdevv/task-automation-assistant)** — an AI assistant that uses tools to get things done.
 
 ---
 
